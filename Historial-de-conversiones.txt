@@ -1,0 +1,21 @@
+Fecha de la conversión: 05/10/2024
+Divisa de origen: ARS
+Divisa de destino: USD
+Monto: 100.0
+Tasa: 0.001026
+Total: 0.1026
+
+Fecha de la conversión: 05/10/2024
+Divisa de origen: COP
+Divisa de destino: USD
+Monto: 10.0
+Tasa: 2.3859E-4
+Total: 0.0023859
+
+Fecha de la conversión: 05/10/2024
+Divisa de origen: USD
+Divisa de destino: ARS
+Monto: 10.0
+Tasa: 974.83
+Total: 9748.300000000001
+
